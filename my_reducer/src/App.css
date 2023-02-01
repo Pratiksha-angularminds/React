@@ -1,0 +1,57 @@
+body
+{
+    margin-top:200px;
+}
+
+h4
+{
+    padding-top:20px;
+}
+
+.quantity
+{
+    padding-top:20px;
+}
+
+
+/* .quantity__minus
+{
+    border-radius: 3px 0 0 3px;
+   
+}
+
+
+.quantity__plus
+{
+    border-radius: 3px 0 0 3px;
+} */
+
+.quantity__input
+{
+    width:100px;
+    height:35px;
+    text-align: center;
+    border-top:2px solid #dee0ee;
+    border-bottom:2px solid #dee0ee;
+    border-left:1px solid #dee0ee;
+    border-right:2px solid #dee0ee;
+    background: #fff;
+    color:#0a0b13;
+}
+
+button{
+    width:80px;
+    height:35px;
+    background: rgb(178, 179, 180);
+    color:rgb(10, 10, 10);
+    
+}
+/* .quantity__minus:link , 
+.quantity__plus:link{
+    color: #8184a1;
+}
+
+.quantity__minus:visited, 
+.quantity__plus:visited{
+    color: #fff;
+} */
